@@ -13,7 +13,6 @@
 
 Live version: https://calories-in.com
 
-Demo video: https://tella.video/calories-in-4onp
 
 </div>
 
